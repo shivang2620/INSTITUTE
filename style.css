@@ -1,0 +1,21 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.big-text{
+    font-size: 20px;
+    color: grey;
+    margin: 0;
+}
+.banner{
+    width: 100%;
+    margin: 5px;
+
+}
+
+
+
+
